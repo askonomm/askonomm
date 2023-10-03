@@ -4,4 +4,4 @@ I'm a polyglot software engineer with a decade of experience in variety of indus
 
 #### Open Source Work
 
-I'm only actively working on [Shape CMS](https://github.com/askonomm/shape) right now (and libs it depends on like [shape-core](https://github.com/askonomm/shape-core), [router](https://github.com/askonomm/router) and [hird](https://github.com/askonomm/hird)). Everything else you see on my profile is effectively in maintenance only. 
+I'm only actively working on [Preach](https://github.com/askonomm/preach) right now. Everything else you see on my profile is effectively in maintenance only in that whenever a bug is reported I will do my best to fix it, but I am not working on any new features. 
